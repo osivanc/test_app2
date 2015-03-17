@@ -1,0 +1,144 @@
+04:34:07pm Post acquired
+04:34:07pm Input is: oscar
+04:34:07pm Link with db established
+04:34:07pm Query run
+04:34:07pm Rows fetched from query = 2
+04:34:07pm --------------------------DONE--------------------------
+08:20:08pm Post acquired
+08:20:08pm Input is: oscar
+08:20:08pm Link with db established
+08:20:08pm Query run
+08:20:08pm Rows fetched from query = 2
+08:20:08pm --------------------------DONE--------------------------
+08:20:12pm Post acquired
+08:20:12pm Input is: cesar
+08:20:12pm Link with db established
+08:20:12pm Query run
+08:20:12pm Rows fetched from query = 1
+08:20:12pm --------------------------DONE--------------------------
+08:20:15pm Post acquired
+08:20:15pm Input is: 
+08:20:15pm Link with db established
+08:20:15pm Query run
+08:20:15pm Rows fetched from query = 2
+08:20:15pm --------------------------DONE--------------------------
+08:20:19pm Post acquired
+08:20:19pm Input is: 
+08:20:19pm Link with db established
+08:20:19pm Query run
+08:20:19pm Rows fetched from query = 2
+08:20:19pm --------------------------DONE--------------------------
+08:20:22pm Post acquired
+08:20:22pm Input is: oscar
+08:20:22pm Link with db established
+08:20:22pm Query run
+08:20:22pm Rows fetched from query = 2
+08:20:22pm --------------------------DONE--------------------------
+09:18:43pm Post acquired
+09:18:43pm Input is: 
+09:18:43pm Link with db established
+09:18:43pm Query run
+09:18:43pm Rows fetched from query = 0
+09:18:43pm --------------------------DONE--------------------------
+09:18:46pm Post acquired
+09:18:46pm Input is: 
+09:18:46pm Link with db established
+09:18:46pm Query run
+09:18:46pm Rows fetched from query = 1
+09:18:46pm --------------------------DONE--------------------------
+10:12:24pm Post acquired
+10:12:24pm Input is: oscar
+10:12:24pm Link with db established
+10:12:24pm Query run
+10:12:24pm Rows fetched from query = 2
+10:12:24pm --------------------------DONE--------------------------
+10:12:27pm Post acquired
+10:12:27pm Input is: 
+10:12:27pm Link with db established
+10:12:27pm Query run
+10:12:27pm Rows fetched from query = 2
+10:12:27pm --------------------------DONE--------------------------
+10:21:57pm Post acquired
+10:21:57pm Input is: oscar
+10:21:57pm Link with db established
+10:21:57pm Query run
+10:21:57pm Rows fetched from query = 2
+10:21:57pm --------------------------DONE--------------------------
+10:21:58pm Post acquired
+10:21:58pm Input is: 
+10:21:58pm Link with db established
+10:21:58pm Query run
+10:21:58pm Rows fetched from query = 2
+10:21:58pm --------------------------DONE--------------------------
+10:22:00pm Post acquired
+10:22:00pm Input is: oscar
+10:22:00pm Link with db established
+10:22:00pm Query run
+10:22:00pm Rows fetched from query = 2
+10:22:00pm --------------------------DONE--------------------------
+10:22:03pm Post acquired
+10:22:03pm Input is: 
+10:22:03pm Link with db established
+10:22:03pm Query run
+10:22:03pm Rows fetched from query = 2
+10:22:03pm --------------------------DONE--------------------------
+10:22:07pm Post acquired
+10:22:07pm Input is: 
+10:22:07pm Link with db established
+10:22:07pm Query run
+10:22:07pm Rows fetched from query = 1
+10:22:07pm --------------------------DONE--------------------------
+05:23:28am Post acquired
+05:23:28am Input is: oscar
+05:23:28am Link with db established
+05:23:28am Query run
+05:23:28am Rows fetched from query = 2
+05:23:28am --------------------------DONE--------------------------
+05:23:44am Post acquired
+05:23:44am Input is: asdf
+05:23:44am Link with db established
+05:23:44am Query run
+05:23:44am Rows fetched from query = 0
+05:23:44am --------------------------DONE--------------------------
+05:27:02am Post acquired
+05:27:02am Input is: asdf
+05:27:03am Link with db established
+05:27:03am Query run
+05:27:03am Rows fetched from query = 0
+05:27:03am --------------------------DONE--------------------------
+05:30:49am Post acquired
+05:30:49am Input is: oscar
+05:30:49am Link with db established
+05:30:49am Query run
+05:30:49am Rows fetched from query = 2
+05:30:49am --------------------------DONE--------------------------
+05:45:51am Post acquired
+05:45:51am Input is: asdf
+05:45:51am Link with db established
+05:45:51am Query run
+05:45:51am Rows fetched from query = 0
+05:45:51am --------------------------DONE--------------------------
+05:46:11am Post acquired
+05:46:11am Input is: 
+05:46:11am Link with db established
+05:46:11am Query run
+05:46:11am Rows fetched from query = 0
+05:46:11am --------------------------DONE--------------------------
+08:18:44pm Post acquired
+08:18:44pm Input is: chav
+08:18:44pm Link with db established
+08:18:44pm Query run
+08:18:44pm Rows fetched from query = 0
+08:18:44pm --------------------------DONE--------------------------
+08:18:48pm Post acquired
+08:18:48pm Input is: oscar
+08:18:48pm Link with db established
+08:18:48pm Query run
+08:18:48pm Rows fetched from query = 2
+08:18:48pm --------------------------DONE--------------------------
+04:15:45pm Post acquired
+04:15:45pm Input is: oscar
+04:15:45pm Link with db established
+04:15:45pm Query run
+04:15:45pm Rows fetched from query = 2
+04:15:45pm --------------------------DONE--------------------------

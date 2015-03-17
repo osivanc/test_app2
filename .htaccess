@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# This should make pages not need .php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+RewriteRule ^(.*)(o|O)(s|S)(c|C)(a|A)(r|R)(.*)$ /oscar.php [END]
+
+RewriteCond %{HTTP_HOST} ^test_app2\.localhost$
+RewriteCond %{REQUEST_URI} !=/chris.php [NC]
+RewriteRule ^(.*)chris(.*) /chris [L]
+
+DirectoryIndex process.php
+
+ErrorDocument 404 /error404.php
